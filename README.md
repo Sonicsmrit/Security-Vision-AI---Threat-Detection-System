@@ -75,21 +75,9 @@ pygame
 
 ## GUI Overview
 
-```
-┌──────────────────┬──────────────────────────┬──────────────────┐
-│   Terminal       │                          │   Logs           │
-│                  │     Live Camera Feed     │                  │
-│  Command history │                          │  Detection logs  │
-│  > /help         │                          │  Attendance      │
-│  > /attendence   │                          │  DB output       │
-│                  │                          │                  │
-│  [command entry] │                          │                  │
-├──────────────────┼──────────────────────────┤                  │
-│                  │  [YOLO] [Start Cam] [Face]│                 │
-│                  │  [Threat]     [Report]   │                  │
-│                  │  [All ON]     [All OFF]  │                  │
-└──────────────────┴──────────────────────────┴──────────────────┘
-```
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6f07c858-63c8-4666-8068-bd58d17c1c3e" />
+
 
 ---
 
